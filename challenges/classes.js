@@ -52,7 +52,7 @@ class CubeMakerClass extends CuboidMakerClass {
     }
 }
 
-let cube = new CubeMakerClass(5);
+// let cube = new CubeMakerClass(5);
 
-console.log(cube.volume());
-console.log(cube.surfaceArea());
+// console.log(cube.volume());
+// console.log(cube.surfaceArea());
